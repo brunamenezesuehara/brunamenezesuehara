@@ -20,4 +20,3 @@
 - 2-Amo chá e estou sempre procurando novos sabores.🍵
 - 3-Quando não estou codando, adoro fazer novas receitas na cozinha.🍳
 - 4-Tenho um interesse especial por soluções tecnológicas que facilitam o dia a dia das mulheres, sejam elas mães ou não.👩‍💻
--->
