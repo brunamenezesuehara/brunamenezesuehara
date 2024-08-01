@@ -13,7 +13,7 @@
 
 - 📚 Acadêmica em Análise e Desenvolvimento de Sistemas
 - 💻 Estou aprendendo a desenvolver e analisar dados com Python com a {reprograma} e também estou no processo de aprendizagem em Salesforce.
-- 🤼‍♀️ Estou procurando colaborar em: Projetos de automação de tarefas para o dia a dia, especialmente voltados para mulheres e mães que trabalham fora de casa; Análise de Dados e visualização de dados, especialmente utilizando Python; Projetos que envolvem integração de sistemas e Salesforce, aproveitando suas habilidades na plataforma; Colaboração com startups ou empresas que têm foco em soluções inovadoras e tecnológicas para o cotidiano.
+- 🤼‍♀️ Estou procurando colaborar em: Projetos de automação de tarefas para o dia a dia, especialmente voltados para mulheres que trabalham fora ou dentro de casa; Análise de Dados e visualização de dados, especialmente utilizando Python; Projetos que envolvem integração de sistemas e Salesforce, aproveitando suas habilidades na plataforma; Colaboração com startups ou empresas que têm foco em soluções inovadoras e tecnológicas para o cotidiano.
 - 👩‍🔧 Procuro aperfeiçoar minhas habilidades em: Bibliotecas como Pandas, NumPy e Matplotlib para análise de dados; Desenvolvimento de projetos open-source e melhores práticas para contribuir em equipes de desenvolvimento; Gestão de projetos e colaboração utilizando Git e GitHub; Explorar linguagens como JavaScript para expandir meu conhecimento em desenvolvimento web e back-end.
 - 🤭 Quatro curiosidades sobre mim:
 - 1-Sou apaixonada por pets e tenho três (Frida🐶, Nami🐶 e Meaw🐱).
